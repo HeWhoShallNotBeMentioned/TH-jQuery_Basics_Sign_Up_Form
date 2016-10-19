@@ -6,7 +6,7 @@ By {Chris Underwood}
 
 Description
 
-{Puts checks into the password form using jQuery. the checks include making sure the password contains at least 8 characters and that the confirm matches exactly. Popup boxes come up for both fields on each keyup to when the fields are not in compliance.  There is currently no check for These Internet access may be needed as a jQuery CDN is used.}
+{Puts checks into the password form using jQuery. the checks include making sure the password contains at least 8 characters and that the confirm matches exactly. Popup boxes come up for both fields on each keyup to when the fields are not in compliance.  A check to make sure that the username is present has been added. Internet access may be needed as a jQuery CDN is used.}
 
 Setup/Installation Requirements
 
